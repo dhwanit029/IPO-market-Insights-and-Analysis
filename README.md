@@ -30,10 +30,8 @@ Using a workflow of data extraction (SQL), data processing & analysis (Python) a
 
 ---
 
-## 🛠 Tech Stack  
-- **SQL**: ETL, database ingestion, join multiple sources  
+## 🛠 Tech Stack   
 - **Python**: Pandas, NumPy for data preparation; Matplotlib/Seaborn/Plotly for analysis  
-- **Dashboard Tool**: (Power BI / Tableau / whichever you used) to build the interactive interface  
 - **Jupyter Notebook**: for exploratory data analysis (EDA)  
 - **Version-controlled Codebase**: clean folder structure, modular scripts  
 
