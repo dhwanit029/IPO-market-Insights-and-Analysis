@@ -1,5 +1,5 @@
 # 📈 IPO Market Analysis Dashboard  
-### Leveraging **Python • SQL • Financial Analytics**
+### Leveraging **Python • Financial Analytics**
 
 [![LinkedIn Post](https://img.shields.io/badge/View%20LinkedIn%20Post-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/dhwanit-kukadiya_ipoanalysis-financialanalytics-dataanalytics-activity-7391155231067197440-jbF6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADa3i_kBKzD4xSHh6BR1gV0qLDJNOprg)
 
