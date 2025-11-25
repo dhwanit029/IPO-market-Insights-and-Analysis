@@ -16,7 +16,7 @@ Using a workflow of data extraction (SQL), data processing & analysis (Python) a
 - Determine which IPOs performed well (and why) and which under-performed  
 - Examine factors influencing IPO success such as industry, age, size, market conditions  
 - Provide interactive visualizations and reports for decision making  
-- Demonstrate full-cycle analytics skills: **SQL → Python → BI**
+- Demonstrate full-cycle analytics skills: **SQL → Python**
 
 ---
 
@@ -26,7 +26,7 @@ Using a workflow of data extraction (SQL), data processing & analysis (Python) a
 - 📊 **Trend and Time-series Analysis**: how IPO outcomes evolve over time, market cycles  
 - 🤝 **Correlation & Feature Impact**: which variables drive IPO success (e.g., promoter strength, pre-issue EBITDA, sector growth)  
 - 🧩 **Interactive Dashboard**: filters, slicers, visuals, drill-downs for detailed analysis  
-- 🧹 **Clean, Modular Workflow**: SQL for data ingestion, Python for cleaning & analysis, BI for visual insights  
+- 🧹 **Clean, Modular Workflow**: SQL for data ingestion, Python for cleaning & analysis  
 
 ---
 
